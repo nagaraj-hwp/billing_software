@@ -1,0 +1,38 @@
+.head {
+     text-align: center;
+}
+
+body {
+     background-color: black;
+}
+
+h2 {
+     color: #32a2e3;
+}
+
+table {
+     width: 100%;
+     background-color: #333;
+}
+
+td {
+     border: solid blue 5px;
+     text-align: center;
+     font-size: 15px;
+     height: 40px;
+     width: 100px;
+     color: #fff;
+     background-color: #333;
+}
+
+input {
+     width: 99%;
+     height: 100%;
+     font-size: 15px;
+}
+
+#grand {
+     width: 25%;
+     height: 25%;
+     font-size: 35px;
+}
